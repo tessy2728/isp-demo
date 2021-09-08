@@ -1,0 +1,17 @@
+{
+  "title": "Material demo",
+  "devDependencies": {
+    "react-scripts": "latest"
+  },
+  "description": "https://github.com/mui-org/material-ui/blob/master/docs/src/pages/components/checkboxes/CustomizedCheckbox.js",
+  "dependencies": {
+    "@material-ui/core": "latest",
+    "@material-ui/icons": "4.11.2",
+    "clsx": "latest",
+    "react": "latest",
+    "react-dom": "latest",
+    "typescript": "4.4.2"
+  },
+  "keywords": [],
+  "name": "solid-principles-demo"
+}
